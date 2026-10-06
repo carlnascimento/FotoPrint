@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=FotoPrint
+Comment=Impressão de fotos em vários layouts
+Exec=fotoprint %F
+Icon=fotoprint
+Terminal=false
+StartupWMClass=FotoPrint
+StartupNotify=true
+Type=Application
+Categories=Graphics;Photography;
+MimeType=image/jpeg;image/png;image/webp;image/bmp;image/tiff;

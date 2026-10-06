@@ -1,0 +1,13 @@
+Package: fotoprint
+Version: 0.2.1
+Section: graphics
+Priority: optional
+Architecture: all
+Depends: python3 (>= 3.9), python3-pil, cups-client, python3-pyside6.qtwidgets | python3-pyqt6
+Recommends: cups
+Maintainer: FotoPrint <fotoprint@example.local>
+Description: Impressão de fotos com múltiplos layouts
+ Aplicativo gráfico para organizar e imprimir fotos em páginas
+ com diferentes layouts (1 a 16 fotos por página), com cálculo
+ automático de múltiplas páginas, pré-visualização, impressão via
+ CUPS e exportação para PDF.
