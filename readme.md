@@ -4,7 +4,7 @@
 
 O programa foi inspirado na experiência simples dos antigos visualizadores de fotos do Windows, oferecendo uma maneira prática de selecionar várias fotografias, organizá-las automaticamente em folhas e realizar a impressão.
 
-
+![Preview do FotoPrint](./preview.png)
 
 ## Sobre o projeto
 
@@ -140,8 +140,6 @@ Também será possível instalar o pacote utilizando uma interface gráfica comp
 Após a instalação, o **FotoPrint** deverá aparecer no menu de aplicativos do sistema.
 
 ## Tecnologia
-
-
 
 - **Python**
 - **PySide6**
@@ -372,4 +370,3 @@ O **FotoPrint** está sendo desenvolvido para **Linux baseado em Debian**, com f
 Desenvolvido por **Carlos**.
 
 **FotoPrint — impressão de fotografias de forma simples no Linux.**
-
